@@ -1239,10 +1239,10 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
-"@hopae/sd-jwt@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@hopae/sd-jwt/-/sd-jwt-2.0.0.tgz#842c4e143f970a953944ad3bb41800590689238b"
-  integrity sha512-4WKvUINqGmusqo5ILkins3kQ7vhH3j6PvDmMLdZuLyqAKdPXIookp4m777F9fufxi4rVQbyRdVBCT3AfaLv6Jw==
+"@hopae/sd-jwt@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@hopae/sd-jwt/-/sd-jwt-2.0.1.tgz#3a2fa3ce0c32d9e5ce9056545635716105049c4e"
+  integrity sha512-CTTsf7nNO5WyPqEE0EqUfbrzyylHx3a3r/R+TYe8B4+tj5ZlqvhAi4g+ia3Q6GBUzrQ35F/nAUGQgyYpiH+ZTA==
   dependencies:
     jose "^5.1.3"
 
